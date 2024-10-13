@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fordonguleri", "fordonguler
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fordonguleri2", "fordonguleri2\fordonguleri2.csproj", "{8EC32FAF-BDD8-4122-ABB0-9EA53A4D5265}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev1", "odev1\odev1.csproj", "{4551B1B5-E1BB-42BB-A0AE-A69565659320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.haftaodev1", "odev1\2.haftaodev1.csproj", "{4551B1B5-E1BB-42BB-A0AE-A69565659320}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
