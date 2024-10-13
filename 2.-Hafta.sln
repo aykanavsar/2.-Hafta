@@ -12,6 +12,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fordonguleri2", "fordongule
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.haftaodev1", "odev1\2.haftaodev1.csproj", "{4551B1B5-E1BB-42BB-A0AE-A69565659320}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj", "{26C8E587-5A2D-4E98-934F-488F0AE1B97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_Odev", "While_Odev\While_Odev.csproj", "{9DC28717-16B4-43D9-9E0D-ABC78BA0A31E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +34,14 @@ Global
 		{4551B1B5-E1BB-42BB-A0AE-A69565659320}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4551B1B5-E1BB-42BB-A0AE-A69565659320}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4551B1B5-E1BB-42BB-A0AE-A69565659320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C8E587-5A2D-4E98-934F-488F0AE1B97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C8E587-5A2D-4E98-934F-488F0AE1B97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C8E587-5A2D-4E98-934F-488F0AE1B97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C8E587-5A2D-4E98-934F-488F0AE1B97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC28717-16B4-43D9-9E0D-ABC78BA0A31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC28717-16B4-43D9-9E0D-ABC78BA0A31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC28717-16B4-43D9-9E0D-ABC78BA0A31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC28717-16B4-43D9-9E0D-ABC78BA0A31E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,8 @@ for (int i = 0; i < 21; i += 2)
     Console.WriteLine($"Çift Sayılar: {i}");
   }
 
-int toplam = 0;
+
+
 for (int i = 50; i <= 150; i++)
 {
     toplam += i;
@@ -29,11 +30,11 @@ for (int i = 0; i < 21; i++)
 {
     if (i % 2 == 0)
     {
-        tek += i;
+       cift i;
     }
     else
     {
-        cift += i;
+        tek i;
     }
 }
 
